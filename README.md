@@ -33,12 +33,12 @@ I'm a **Research and Development Engineer** with 10+ years of hands-on experienc
 ---
 
 ## 🛠 Tech Stack
-** Languages: Python, Bash, C  **
-** AI Tools: LangChain, AutoGen, Semantic Kernel, NLP, RL  **
-** Cloud: Azure, GCP, Docker, Kubernetes  **
-** DevOps: Ansible, Terraform, CI/CD, GitHub Actions, Jenkins **  
-** Backend: FastAPI, Django, PostgreSQL, Redis  **
-** Monitoring: Zabbix, Nagios  **
+- ** Languages: Python, Bash, C  **
+- ** AI Tools: LangChain, AutoGen, Semantic Kernel, NLP, RL  **
+- ** Cloud: Azure, GCP, Docker, Kubernetes  **
+- ** DevOps: Ansible, Terraform, CI/CD, GitHub Actions, Jenkins **  
+- ** Backend: FastAPI, Django, PostgreSQL, Redis  **
+- ** Monitoring: Zabbix, Nagios  **
 
 ##📜 Certifications
 ** ✅ Python OOP Programming (LinkedIn, 2024) **
