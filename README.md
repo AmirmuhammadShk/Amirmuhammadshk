@@ -49,8 +49,5 @@ I'm a **Research and Development Engineer** with 10+ years of hands-on experienc
 - **Advanced LLM Agent Systems (Multi-agent cooperation)**
 - **Cloud-native MLOps with Kubernetes & Kubeflow**
 - **Fine-tuning and deploying Open-Source LLMs**
-## 🌐 Let's Connect
-- **🔗 LinkedIn**
-- **📫 amirmuhammadshk@gmail.com**
-- **🧠 Remo Lab – Current Work**
+
 
