@@ -33,24 +33,23 @@ I'm a **Research and Development Engineer** with 10+ years of hands-on experienc
 ---
 
 ## 🛠 Tech Stack
-
-```yaml
 Languages: Python, Bash, C  
 AI Tools: LangChain, AutoGen, Semantic Kernel, NLP, RL  
 Cloud: Azure, GCP, Docker, Kubernetes  
 DevOps: Ansible, Terraform, CI/CD, GitHub Actions, Jenkins  
 Backend: FastAPI, Django, PostgreSQL, Redis  
 Monitoring: Zabbix, Nagios  
-📜 Certifications
+
+##📜 Certifications
 ✅ Python OOP Programming (LinkedIn, 2024)
 ✅ Docker Fundamentals (LinkedIn, 2024)
 ✅ Microsoft Azure Fundamentals (AZ-900)
 ✅ Prompt Engineering & Generative AI
-🧠 Currently Learning
+## 🧠 Currently Learning
 Advanced LLM Agent Systems (Multi-agent cooperation)
 Cloud-native MLOps with Kubernetes & Kubeflow
 Fine-tuning and deploying Open-Source LLMs
-🌐 Let's Connect
+## 🌐 Let's Connect
     🔗 LinkedIn
     📫 amirmuhammadshk@gmail.com
     🧠 Remo Lab – Current Work
