@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amirmohammad Shakeri
 
-### 🚀  Software Engineer | Linux & Cloud Systems Expert | AI/AGI Expert 
+### 🚀   Software Engineer | Scalable Backend Systems • Cloud & Linux Optimization • AI/AGI & Autonomous Agents 
 
 I engineer **scalable AI platforms** and **self-optimizing cloud infrastructure** that bridge cutting-edge research with enterprise-grade reliability. With **10+ years** of experience, I specialize in:
 
