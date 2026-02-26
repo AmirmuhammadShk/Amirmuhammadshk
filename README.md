@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=002D04&height=280&section=header&text=🐧Amir%20Shakeri&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Backend%20%26%20Systems%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=002D04&height=280&section=header&text=🐧Amir%20Shakeri&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20&descAlignY=55&descAlign=50" width="100%"/> </div>
 
 <div align="center">
 
